@@ -1,0 +1,15 @@
+
+.titulo{
+	background-position: center top;
+	background-image:  url('imagens/image 3.png');
+	background-size: 100%;
+
+}
+.texto{
+border: 0;
+background-color: darkblue;
+color: white;
+font-size: 20px;
+font-family: "Arial, Helvetica, sans-serif";
+padding: 20px;
+}
